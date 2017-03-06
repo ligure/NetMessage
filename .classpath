@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/common"/>
+	<classpathentry kind="src" path="src/server"/>
+	<classpathentry kind="src" path="src/client"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/mina-core-2.0.9.jar" sourcepath="E:/sdk/apache-mina-2.0.9-src.zip"/>
+	<classpathentry kind="lib" path="libs/netty-all-4.1.8.Final.jar" sourcepath="C:/Users/Administrator.CNBJWK.001/Downloads/netty-4.1.8.Final/jar/all-in-one/netty-all-4.1.8.Final-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Administrator.CNBJWK.001/Downloads/netty-4.1.8.Final/javadoc/netty-all-4.1.8.Final-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
